@@ -1,4 +1,4 @@
-# Delphi Connector for R
+# Delphi Connector for R <img src="https://github.com/delphi-hub/delphi/raw/master/img/delphi.png" align="right" height=140/>
 
 The R Connector package for data from the Delphi project.
 

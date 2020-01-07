@@ -1,7 +1,17 @@
 Package: delphiR
 Version: 0.1
 Date: 2020-01-06
-Title: R connector package for the Delphi project.
-Author: Ben Hermann <ben.hermann@googlemail.com>
+Title: R connector package for the Delphi project
+Description: This is the R connector package for the Delphi project.
+Authors@R: person("Ben", "Hermann", email = "ben.hermann@googlemail.com",
+  role = c("aut", "cre"))
 Maintainer: Ben Hermann <ben.hermann@googlemail.com>
 License: Apache + file LICENSE
+Imports: 
+  httr,
+  jsonlite,
+  plyr
+Encoding: UTF-8
+Language: en-US
+URL: https://github.com/delphi-hub/delphiR
+BugReports: https://github.com/delphi-hub/delphiR/issues
